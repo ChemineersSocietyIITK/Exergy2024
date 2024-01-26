@@ -39,19 +39,19 @@ export default function Navibar() {
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                         <li className="nav-item" id='l1'>
-                            <Link className="nav-link active" aria-current="page" to="/Exergy-2024">Home</Link>
+                            <Link className="nav-link active" aria-current="page" to="/Exergy2024">Home</Link>
                         </li>
                         <li className="nav-item" id='l2'>
-                            <Link className="nav-link" to="/Exergy-2024/competitions">Competitions</Link>
+                            <Link className="nav-link" to="/Exergy2024/competitions">Competitions</Link>
                         </li>
                         <li className="nav-item" id='l3'>
-                            <Link className="nav-link" to="/Exergy-2024/workshops">Workshops</Link>
+                            <Link className="nav-link" to="/Exergy2024/workshops">Workshops</Link>
                         </li>
                         <li className="nav-item" id='l4'>
-                            <Link className="nav-link" to="/Exergy-2024/talks">Talks</Link>
+                            <Link className="nav-link" to="/Exergy2024/talks">Talks</Link>
                         </li>
                         <li className="nav-item" id='l4'>
-                            <Link className="nav-link" to="/Exergy-2024/gallery">Gallery</Link>
+                            <Link className="nav-link" to="/Exergy2024/gallery">Gallery</Link>
                         </li>
                         <li className="nav-item" id='l5'>
                             <Link className="nav-link" to="https://unstop.com/internships/campus-ambassador-internship-exergy-2024-iit-kanpur-863863 " target='blank'>Campus Ambassador</Link>

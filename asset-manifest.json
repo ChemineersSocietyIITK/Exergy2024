@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Exergy2024/static/css/main.be6c1712.css",
-    "main.js": "/Exergy2024/static/js/main.a99c350d.js",
+    "main.css": "/Exergy2024/static/css/main.f73e9b96.css",
+    "main.js": "/Exergy2024/static/js/main.abc55549.js",
     "static/js/787.e1c87752.chunk.js": "/Exergy2024/static/js/787.e1c87752.chunk.js",
     "static/media/landingvideo.mp4": "/Exergy2024/static/media/landingvideo.bd8e493466f89aa25e83.mp4",
     "static/media/exergy wallpaper (2).jpg": "/Exergy2024/static/media/exergy wallpaper (2).660e24c87e8717f62e6e.jpg",
@@ -24,12 +24,12 @@
     "static/media/gallery8.jpeg": "/Exergy2024/static/media/gallery8.0e28d70c86e77bee9b91.jpeg",
     "static/media/timepass image.jpg": "/Exergy2024/static/media/timepass image.9347af409f7a9b3adcf0.jpg",
     "index.html": "/Exergy2024/index.html",
-    "main.be6c1712.css.map": "/Exergy2024/static/css/main.be6c1712.css.map",
-    "main.a99c350d.js.map": "/Exergy2024/static/js/main.a99c350d.js.map",
+    "main.f73e9b96.css.map": "/Exergy2024/static/css/main.f73e9b96.css.map",
+    "main.abc55549.js.map": "/Exergy2024/static/js/main.abc55549.js.map",
     "787.e1c87752.chunk.js.map": "/Exergy2024/static/js/787.e1c87752.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be6c1712.css",
-    "static/js/main.a99c350d.js"
+    "static/css/main.f73e9b96.css",
+    "static/js/main.abc55549.js"
   ]
 }

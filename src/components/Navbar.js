@@ -56,6 +56,10 @@ export default function Navibar() {
                         <li className="nav-item" id='l5'>
                             <Link className="nav-link" to="https://unstop.com/internships/campus-ambassador-internship-exergy-2024-iit-kanpur-863863 " target='blank'>Campus Ambassador</Link>
                         </li>
+                        <li className="nav-item" id='l5'>
+                            <Link className="nav-link" to="https://unstop.com/college-fests/exergy-2024-indian-institute-of-technology-iit-kanpur-191106
+" target='blank'>Register Here</Link>
+                        </li>
                     </ul>
                 </div>
             </div>

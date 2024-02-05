@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/Exergy2024/static/css/main.be6c1712.css",
-    "main.js": "/Exergy2024/static/js/main.f4af8a16.js",
+    "main.css": "/Exergy2024/static/css/main.b58df57b.css",
+    "main.js": "/Exergy2024/static/js/main.065be7f0.js",
     "static/js/787.e1c87752.chunk.js": "/Exergy2024/static/js/787.e1c87752.chunk.js",
     "static/media/landingvideo.mp4": "/Exergy2024/static/media/landingvideo.bd8e493466f89aa25e83.mp4",
     "static/media/exergy wallpaper (2).jpg": "/Exergy2024/static/media/exergy wallpaper (2).660e24c87e8717f62e6e.jpg",
-    "static/media/sponsers1.svg": "/Exergy2024/static/media/sponsers1.d62b03ee9b1f587ac9a0ac14c1990eb0.svg",
     "static/media/cipher.png": "/Exergy2024/static/media/cipher.aab7eb803987ca1908b0.png",
     "static/media/gallery6.jpeg": "/Exergy2024/static/media/gallery6.3b6cb1b3da0c6fcdf393.jpeg",
     "static/media/gallery9.jpeg": "/Exergy2024/static/media/gallery9.10bb9e89262fc9425ba1.jpeg",
@@ -21,16 +20,16 @@
     "static/media/gallery12.jpeg": "/Exergy2024/static/media/gallery12.23c0d18909d9717412e2.jpeg",
     "static/media/case_study.jpg": "/Exergy2024/static/media/case_study.4be709cd99583150a4be.jpg",
     "static/media/optimization.jpg": "/Exergy2024/static/media/optimization.599de78a2311b6515fcb.jpg",
-    "static/media/myimg.jpg": "/Exergy2024/static/media/myimg.1276ae8b140ca7505434.jpg",
     "static/media/gallery8.jpeg": "/Exergy2024/static/media/gallery8.0e28d70c86e77bee9b91.jpeg",
+    "static/media/sponsers1.png": "/Exergy2024/static/media/sponsers1.42d3ad328b8f6ced1791.png",
     "static/media/timepass image.jpg": "/Exergy2024/static/media/timepass image.9347af409f7a9b3adcf0.jpg",
     "index.html": "/Exergy2024/index.html",
-    "main.be6c1712.css.map": "/Exergy2024/static/css/main.be6c1712.css.map",
-    "main.f4af8a16.js.map": "/Exergy2024/static/js/main.f4af8a16.js.map",
+    "main.b58df57b.css.map": "/Exergy2024/static/css/main.b58df57b.css.map",
+    "main.065be7f0.js.map": "/Exergy2024/static/js/main.065be7f0.js.map",
     "787.e1c87752.chunk.js.map": "/Exergy2024/static/js/787.e1c87752.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be6c1712.css",
-    "static/js/main.f4af8a16.js"
+    "static/css/main.b58df57b.css",
+    "static/js/main.065be7f0.js"
   ]
 }

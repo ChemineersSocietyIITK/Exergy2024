@@ -1,5 +1,5 @@
 import React from 'react'
-import sponser1 from '../images/sponsers1.svg'
+import sponser1 from '../images/sponsers1.png'
 export default function () {
   return (
     <div className='footer container-fluid' style={{ height: "200px" }}>

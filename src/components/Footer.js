@@ -1,9 +1,8 @@
 import React from 'react'
-import myimg from '../images/myimg.jpg'
-import img2 from '../images/timepass image.jpg'
+import sponser1 from '../images/sponsers1.svg'
 export default function () {
   return (
-    <div className='footer container-fluid' style={{height:"200px"}}>
+    <div className='footer container-fluid' style={{ height: "200px" }}>
       <div className="row h-100">
         <div className="col d-flex justify-content-center align-items-center">
           <div className="row gradient-text h-50" style={{ textAlign: "center" }}>
@@ -45,15 +44,32 @@ export default function () {
           </div>
         </div>
 
-        {/* <div className="col">
-            <div className="row gradient-text h50">
-              <h2>SPONSERS</h2>
+        <div className="col">
+          <div className="row gradient-text h-50">
+            <h2>SPONSORS</h2>
+          </div>
+          <div className="row w-100 h-50">
+            <div className="col d-flex justify-content-center align-items-center">
+              <img src={sponser1} alt="" style={{ height: "50px" }} />
             </div>
-            <div.
-        </div> */}
+          </div>
+        </div>
 
+        <div className="col">
+          <div className="row gradient-text h-50">
+            <h2>CONTACT US</h2>
+          </div>
+
+          <div className="row w-100 h-50">
+            <div className="col d-flex justify-content-center align-items-center" >
+              <a href="mailto:chemsoc@iitk.ac.in" ><h5 style={{color:"white", textDecoration:"none"}}>chemsoc@iitk.ac.in</h5></a>
+              <a href="https://www.iitk.ac.in/che/" target='_blank'><h5 style={{color:"white", textDecoration:"none"}}>Chemical Engineering, IIT Kanpur</h5></a>
+              
+            </div>
+          </div>
+
+        </div>
       </div>
-
-    </div>
-  )
+      </div>
+      )
 }

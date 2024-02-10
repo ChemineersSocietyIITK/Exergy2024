@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import { Routes, Route } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 import Competitions from './pages/Competitions';
 import Workshops from './pages/Workshops';
 import Home from './pages/Home';
@@ -13,7 +13,7 @@ function App() {
     <>
       {/* <Landing text="EXERGY$ECHOES OF EXOTHERMIA" /> */}
       <Routes>
-        <Route path='/Exergy2024' element={<Home />} />
+        <Route exact path='/Exergy2024' element={<Home />} />
         <Route path='/Exergy2024/competitions' element={<Competitions />} />
         <Route path='/Exergy2024/workshops' element={<Talks />} />
         <Route path='/Exergy2024/talks' element={<Talks />} />

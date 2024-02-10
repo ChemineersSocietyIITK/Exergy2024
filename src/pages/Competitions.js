@@ -20,7 +20,7 @@ export default function Competitions() {
                     <CompetitionCard detailsTitle="Details" rulesTitle="Rules" contactTitle="Contact" detailsText="Coming Soon1" rulesText="Coming Soon" contactText="Coming Soon" no="1" title="Optimization" text="Unleash the Power of Efficiency: Where Innovation Meets Optimization!" link="https://unstop.com/competitions/optimisation-exergy-2024-iit-kanpur-872244" myimg = {optimize}/>
                 </div>
                 <div className="col p-4 m-4">
-                    <CompetitionCard detailsTitle="Details" rulesTitle="Rules" contactTitle="Contact" detailsText="Coming Soon" rulesText="Coming Soon" contactText="Coming Soon" no="2" title="Cipher" text="Decipher the Challenge, Encrypt the Victory: Cracking Codes, Unleashing Brilliance!" link = "https://unstop.com/competitions/cipher-exergy-2024-iit-kanpur-882040" myimg={cipher}/>
+                    <CompetitionCard detailsTitle="Details" rulesTitle="Rules" contactTitle="Contact" detailsText="Coming Soon" rulesText="Coming Soon" contactText="Coming Soon" no="2" title="Cipher" text="Decipher the Challenge, Encrypt the Victory: Cracking Codes, Unleashing Brilliance!" link="https://unstop.com/competitions/cipher-exergy-2024-iit-kanpur-882040" myimg={cipher}/>
                 </div>
             </div>
             <div className="row ">

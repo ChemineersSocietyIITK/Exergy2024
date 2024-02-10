@@ -13,11 +13,11 @@ function App() {
     <>
       {/* <Landing text="EXERGY$ECHOES OF EXOTHERMIA" /> */}
       <Routes>
-        <Route path='/Exergy2024/#' element={<Home />} />
-        <Route path='/Exergy2024/#/competitions' element={<Competitions />} />
-        <Route path='/Exergy2024/#/workshops' element={<Talks />} />
-        <Route path='/Exergy2024/#/talks' element={<Talks />} />
-        <Route path='/Exergy2024/#/gallery' element={<Gallery />} />
+        <Route path='/' element={<Home />} />
+        <Route path='/competitions' element={<Competitions />} />
+        <Route path='/workshops' element={<Talks />} />
+        <Route path='/talks' element={<Talks />} />
+        <Route path='/gallery' element={<Gallery />} />
       </Routes>
     </>
   )

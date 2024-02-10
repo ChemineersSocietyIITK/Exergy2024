@@ -1,5 +1,9 @@
 {
-  "homepage": "https://ChemineersSocietyIITK.github.io/Exergy2024/#",
+  "homepage": "https://ChemineersSocietyIITK.github.io/Exergy2024/#/",
+  "homepage": "https://ChemineersSocietyIITK.github.io/Exergy2024/#/competitions",
+  "homepage": "https://ChemineersSocietyIITK.github.io/Exergy2024/#/workshops",
+  "homepage": "https://ChemineersSocietyIITK.github.io/Exergy2024/#/talks",
+  "homepage": "https://ChemineersSocietyIITK.github.io/Exergy2024/#/gallery",
   "name": "exergy",
   "version": "0.1.0",
   "private": true,

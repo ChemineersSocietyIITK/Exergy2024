@@ -39,19 +39,19 @@ export default function Navibar() {
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                         <li className="nav-item" id='l1'>
-                            <Link className="nav-link active" aria-current="page" to="#/">Home</Link>
+                            <Link className="nav-link active" aria-current="page" to="/">Home</Link>
                         </li>
                         <li className="nav-item" id='l2'>
-                            <Link className="nav-link" to="#/competitions">Competitions</Link>
+                            <Link className="nav-link" to="/competitions">Competitions</Link>
                         </li>
                         <li className="nav-item" id='l3'>
-                            <Link className="nav-link" to="#/workshops">Workshops</Link>
+                            <Link className="nav-link" to="/workshops">Workshops</Link>
                         </li>
                         <li className="nav-item" id='l4'>
-                            <Link className="nav-link" to="#/talks">Talks</Link>
+                            <Link className="nav-link" to="/talks">Talks</Link>
                         </li>
                         <li className="nav-item" id='l4'>
-                            <Link className="nav-link" to="#/gallery">Gallery</Link>
+                            <Link className="nav-link" to="/gallery">Gallery</Link>
                         </li>
                         <li className="nav-item" id='l5'>
                             <Link className="nav-link" to="https://unstop.com/internships/campus-ambassador-internship-exergy-2024-iit-kanpur-863863 " target='blank'>Campus Ambassador</Link>

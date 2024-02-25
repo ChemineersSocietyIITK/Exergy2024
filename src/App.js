@@ -7,7 +7,7 @@ import Workshops from './pages/Workshops';
 import Home from './pages/Home';
 import Talks from './pages/Talks';
 import Gallery from './pages/Gallery';
-
+import TalksCard from './components/TalksCard';
 function App() {
   return (
     <>

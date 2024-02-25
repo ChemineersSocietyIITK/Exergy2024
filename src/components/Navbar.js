@@ -44,9 +44,6 @@ export default function Navibar() {
                         <li className="nav-item" id='l2'>
                             <Link className="nav-link" to="/competitions">Competitions</Link>
                         </li>
-                        <li className="nav-item" id='l3'>
-                            <Link className="nav-link" to="/workshops">Workshops</Link>
-                        </li>
                         <li className="nav-item" id='l4'>
                             <Link className="nav-link" to="/talks">Talks</Link>
                         </li>

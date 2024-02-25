@@ -28,9 +28,9 @@ export default function Home() {
                             <Infocard title="Competitions" text="Prepare to unleash your creativity and expertise in the exhilarating competitions organised by EXERGY. Engage in thrilling challenges that will put your skills to the test, offering a platform to showcase your talent and innovation. 
 " link="/competitions" target = "_self"/>
                         </div>
-                        <div className="col">
+                        {/* <div className="col">
                             <Infocard title="Workshops" text="Unlock the power of innovation and mastery with EXERGY's exclusive workshop series designed to elevate your skills and expertise in cutting-edge tools and technologies. Join us for hands-on, immersive sessions that delve into MATLAB, machine learning in chemical engineering, Python, COMSOL, Mathematica, and Aspen, opening new frontiers in your professional journey" link="/workshops" target = "_self"/>
-                        </div>
+                        </div> */}
                     </div>
                     <div className="row">
                         <div className="col">

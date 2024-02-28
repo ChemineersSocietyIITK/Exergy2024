@@ -29,7 +29,7 @@ export default function PanelCard() {
                         </div>
                     </div>
                 </div>
-                <h5 className="card-title">Topic : AI shaping the future of Chemical Engineers</h5>
+                <h5 className="card-title">Topic : AI shaping the future of Chemical Industries</h5>
                 <h5 className="card-title">Mode : Online</h5>
                 <h5 className="card-title">Time : 2nd March at 2:30 P.M.</h5>
             </div>

@@ -1,5 +1,7 @@
 import React from 'react'
 import sponser1 from '../images/sponsers1.png'
+import sponser2 from '../images/ChemicaliQ.jpg'
+import sponser3 from '../images/sponser3.jpg'
 export default function () {
   return (
     <div className='footer container-fluid' style={{ height: "200px" }}>
@@ -50,8 +52,15 @@ export default function () {
           </div>
           <div className="row w-100 h-50">
             <div className="col d-flex justify-content-center align-items-center">
-              <img src={sponser1} alt="" style={{ height: "50px" }} />
+              <a href="https://www.instagram.com/chemical_iq/" target='_blank'><img src={sponser2} alt="" style={{ height: "70px" }} /></a>
             </div>
+            <div className="col d-flex justify-content-center align-items-center">
+              <a href="https://www.kanopytech.com/" target='_blank'><img src={sponser1} alt="" style={{ height: "70px" }} /></a>
+            </div>
+            <div className="col d-flex justify-content-center align-items-center">
+              <a href="https://www.linkedin.com/company/greengine/about/" target='_blank'><img src={sponser3} alt="" style={{ height: "70px" }} /></a>
+            </div>
+            
           </div>
         </div>
 

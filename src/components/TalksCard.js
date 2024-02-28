@@ -10,7 +10,7 @@ export default function TalksCard(props) {
                     </div>
                     <div className="col-md-8">
                         <div className="card-body" >
-                            <h3 className="card-title gradient-text">{props.name}</h3>
+                            <h3 className="card-title gradient-text"><a href={props.link} target='_blank' style={{textDecoration:"none", color:"white"}}>{props.name}</a></h3>
                             <h5 className="card-text"><i>{props.title}</i></h5>
                             <h5 className="card-text">{props.info}</h5>
                             <h5 className="card-text">{props.mode}</h5>

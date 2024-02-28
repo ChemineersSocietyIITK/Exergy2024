@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Exergy2024/static/css/main.01e52264.css",
-    "main.js": "/Exergy2024/static/js/main.806bd925.js",
+    "main.js": "/Exergy2024/static/js/main.fd069590.js",
     "static/js/787.e1c87752.chunk.js": "/Exergy2024/static/js/787.e1c87752.chunk.js",
     "static/media/landingvideo.mp4": "/Exergy2024/static/media/landingvideo.bd8e493466f89aa25e83.mp4",
     "static/media/exergy wallpaper (2).jpg": "/Exergy2024/static/media/exergy wallpaper (2).660e24c87e8717f62e6e.jpg",
@@ -21,6 +21,7 @@
     "static/media/nikita.jpg": "/Exergy2024/static/media/nikita.7410875dcacb2656b5bc.jpg",
     "static/media/gallery3.jpeg": "/Exergy2024/static/media/gallery3.3355f2eeb3bdb2e9ca6a.jpeg",
     "static/media/gallery12.jpeg": "/Exergy2024/static/media/gallery12.23c0d18909d9717412e2.jpeg",
+    "static/media/mounica.jpg": "/Exergy2024/static/media/mounica.82ecfa808068c9af6d65.jpg",
     "static/media/vijay.jpg": "/Exergy2024/static/media/vijay.f06cd413e857bf39da63.jpg",
     "static/media/case_study.jpg": "/Exergy2024/static/media/case_study.4be709cd99583150a4be.jpg",
     "static/media/optimization.jpg": "/Exergy2024/static/media/optimization.599de78a2311b6515fcb.jpg",
@@ -33,11 +34,11 @@
     "static/media/timepass image.jpg": "/Exergy2024/static/media/timepass image.9347af409f7a9b3adcf0.jpg",
     "index.html": "/Exergy2024/index.html",
     "main.01e52264.css.map": "/Exergy2024/static/css/main.01e52264.css.map",
-    "main.806bd925.js.map": "/Exergy2024/static/js/main.806bd925.js.map",
+    "main.fd069590.js.map": "/Exergy2024/static/js/main.fd069590.js.map",
     "787.e1c87752.chunk.js.map": "/Exergy2024/static/js/787.e1c87752.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.01e52264.css",
-    "static/js/main.806bd925.js"
+    "static/js/main.fd069590.js"
   ]
 }
